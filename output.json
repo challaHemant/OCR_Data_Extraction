@@ -1,0 +1,43 @@
+{
+    "extracted_data": {
+        "patient_name": "Not Provided",
+        "dob": "Not Provided",
+        "date": "Not Provided",
+        "injection": "YES",
+        "exercise_therapy": "YES",
+        "difficulty_ratings": {
+            "bending": 12345,
+            "putting_on_shoes": 1,
+            "sleeping": 12345,
+            "standing": 0,
+            "stairs": 12,
+            "walking": 0,
+            "driving": 12348,
+            "preparing_meal": 12345,
+            "yard_work": 123,
+            "picking_up_items": 1
+        },
+        "patient_changes": {
+            "since_last_treatment": "Not Provided",
+            "since_start_of_treatment": "Rate pein symptoms on a scale of 0-10 10 being the highest: To Be Completed by MA: Blood Freamwe: HI Weight i: Hehe J",
+            "last_3_days": "Not Provided"
+        },
+        "pain_symptoms": {
+            "pain": 0,
+            "numbness": 0,
+            "tingling": 0,
+            "burning": 0,
+            "tightness": 0
+        },
+        "medical_assistant_data": {
+            "blood_pressure": "Not Provided",
+            "hr": "Not Provided",
+            "weight": "Not Provided",
+            "height": "Not Provided",
+            "spo2": "Not Provided",
+            "temperature": "Not Provided",
+            "blood_glucose": "Not Provided",
+            "respirations": "Not Provided"
+        }
+    }
+}
